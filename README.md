@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
+  🚀 <br>Linguagens: <strong>C#, Java, JavaScript, React.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
+  💼 <br>Ferramentas: <strong>Unity, Git, .Net.</strong>
 </p>
 
 <p align="left">
@@ -19,7 +19,7 @@
 
 <p align="left">
 
-  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/davi-pereira-17220a22b/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 </p>
 
