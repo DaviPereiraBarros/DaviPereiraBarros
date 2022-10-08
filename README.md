@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🚀 <br>Linguagens: <strong>C#, Java, JavaScript, React.</strong>
+  🚀 Linguagens: <strong>C#, Java, JavaScript, React.</strong>
 </p>
 
 <p align="left">
-  💼 <br>Ferramentas: <strong>Unity, Git, .Net.</strong>
+  💼 Ferramentas: <strong>Unity, Git, .Net.</strong>
 </p>
 
 <p align="left">
