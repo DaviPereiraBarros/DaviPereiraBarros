@@ -2,8 +2,9 @@
 
 <p align="left"> 
   <strong>Hello World!</strong><br>
-  Me chamo Davi Pereira, sou desenvolvedor de games.
-  Atualmente estou estudando Front-end.
+  Me chamo Davi Pereira, sou desenvolvedor de games.<br>
+  Atualmente estou estudando Front-end.<br>
+  Minhas experiências com Java foi na participação de um torneio nacional de robótica pela minha escola.<br>
 </p>
 
 <p align="left">
