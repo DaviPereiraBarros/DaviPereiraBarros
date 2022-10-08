@@ -1,13 +1,13 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-## *Sobre
+## *Sobre**
 <p align="left"> 
   <strong>Hello World!</strong><br>
   Me chamo Davi Pereira, sou formado em técnino de Jogos Digitais.<br>
   Atualmente estou estudando Front-end.<br>
 </p>
 
-## *Tecnologias
+## *Tecnologias**
 
 <p align="left">
   🚀 Linguagens: <strong>C#, Java, JavaScript, React.</strong>
