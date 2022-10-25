@@ -4,7 +4,7 @@
 <p align="left"> 
   <strong>Hello World!</strong><br>
   Me chamo Davi Pereira, sou formado em técnino de Jogos Digitais.<br>
-  Atualmente estou estudando Front-end.<br>
+  Atualmente estou estudando JavaScript.<br>
 </p>
 
 ## *Tecnologias*
