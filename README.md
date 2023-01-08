@@ -3,7 +3,7 @@
 ## *Sobre*
 <p align="left"> 
   <strong>Hello World!</strong><br>
-  Me chamo Davi Pereira, sou formado em técnico de Jogos Digitais no Senai utilizando o Unity3D e a linguagem C#.<br>
+  Me chamo Davi Pereira, sou formado em técnico de Jogos Digitais pelo Senai utilizando o Unity3D e a linguagem C#.<br>
   Além do técnico, pude participar do torneio nacional de robótica First Tech Challenge (FTC) atuando nas áreas de programação (Java) e design.<br>
   Atualmente estou estudando JavaScript (React) e busco focar nessas 3 linguagens.<br>
 </p>
