@@ -11,7 +11,7 @@
 ## *Tecnologias*
 
 <p align="left">
-  🚀 Linguagens: <strong>C#, Java, JavaScript, React, ADVPL e Next.</strong>
+  🚀 Linguagens: <strong>C#, Java, JavaScript, React e ADVPL.</strong>
 </p>
 
 <p align="left">
