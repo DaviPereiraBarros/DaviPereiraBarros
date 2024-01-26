@@ -30,5 +30,4 @@
 
 ## **Portfólio**
 
-https://davibarrospp.wixsite.com/davibarros
 
