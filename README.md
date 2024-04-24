@@ -9,7 +9,8 @@
   Atualmente estou cursando Engenharia da Computação e trabalhando com a linguagem ADVPL e o SQL Server.<br>
 </p>
 
-
+<br>
+<br>
 
 ## *Tecnologias*
 
