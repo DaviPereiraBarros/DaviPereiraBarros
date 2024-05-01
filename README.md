@@ -1,6 +1,3 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-
 ## *Sobre*
 <p align="left"> 
   <strong>Hello World!</strong><br>
@@ -9,8 +6,7 @@
   Atualmente estou cursando Engenharia da Computação e trabalhando com a linguagem ADVPL e o SQL Server.<br>
 </p>
 
-<br>
-<br>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ## *Tecnologias*
 
