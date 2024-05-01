@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 ## *Sobre*
 <p align="left"> 
   <strong>Hello World!</strong><br>
@@ -5,8 +7,6 @@
   Além do técnico, pude participar do torneio nacional de robótica First Tech Challenge (FTC) atuando nas áreas de programação (Java) e design.<br>
   Atualmente estou cursando Engenharia da Computação e trabalhando com a linguagem ADVPL e o SQL Server.<br>
 </p>
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ## *Tecnologias*
 
